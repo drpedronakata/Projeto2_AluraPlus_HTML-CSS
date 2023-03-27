@@ -24,6 +24,8 @@ body {
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
+    text-align: center;
 }
 
 .container {
@@ -32,9 +34,17 @@ body {
     height: 100vh;
 }
 
+.container__caixa {
+    margin: 0 6em;
+}
+
 .container__titulo {
     font-size: 28px;
     font-weight: 700;
+}
+
+.container__imagem {
+    margin: 1em 0 2em 0;
 }
 
 .container__botao {
@@ -42,6 +52,7 @@ body {
     background-color: var(--botao-azul);
     border-radius: 8px;
     padding: 1.0em;
+    margin-bottom: 1em;
     color: var(--branco-principal);
     text-decoration: none;
 }
