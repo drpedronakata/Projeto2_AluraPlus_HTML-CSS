@@ -173,6 +173,8 @@ body {
     .container {
         display: block;
         background-image: none;
+        height: auto;
+        margin-bottom: 5em;
     }
 
     .container__imagem {
@@ -183,8 +185,12 @@ body {
         margin: 2em 2em;
     }
 
+    .descricao__titulo, .dispositivos__titulo {
+        font-size: 28px;
+    }
+
     .secundario {
-        margin: 0;
+        margin: 0 0 10em;
         text-align: center;
     }
 
@@ -194,6 +200,7 @@ body {
 
     .dispositivos__lista {
         display: block;
+        margin: 0;
     }
 
     .rodape__lista {
