@@ -3,6 +3,9 @@
 ## :memo: Sobre o Projeto
 Projeto do Curso de HTML/CSS da Alura, sendo esse a parte 5/6 da formação <strong>A partir do zero: HTML e CSS para projetos web</strong>
 
+O projeto foi realizado apos o [Projeto 1: Meu Portfolio](https://github.com/drpedronakata/Projeto1_Meu-Portfolio_HTML-CSS).
+
+
 ![Print da Pagina](./img/Screenshot.png)
 
 ## :wrench: Ferramentas utilizadas:
