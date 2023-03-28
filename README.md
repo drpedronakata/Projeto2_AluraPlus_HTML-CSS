@@ -41,3 +41,5 @@ O projeto foi realizado apos o [Projeto 1: Meu Portfolio](https://github.com/drp
 * [Readme Template](https://github.com/tatialveso/readme-template/blob/main/README.md)
 
 * [Lista de Emojis para Github markdown](https://gist.github.com/rxaviers/7360908)
+
+* [Transformando um site em responsivo](https://cursos.alura.com.br/extra/alura-mais/transformando-um-site-em-responsivo-c1601)
