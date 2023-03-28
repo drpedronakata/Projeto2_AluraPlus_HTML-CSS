@@ -3,7 +3,7 @@
 ## :memo: Sobre o Projeto
 Projeto do Curso de HTML/CSS da Alura, sendo esse a parte 5/6 da formação <strong>A partir do zero: HTML e CSS para projetos web</strong>
 
-![Print da Pagina](./assets/Screenshot.png)
+![Print da Pagina](./img/Screenshot.png)
 
 ## :wrench: Ferramentas utilizadas:
 * HTML
