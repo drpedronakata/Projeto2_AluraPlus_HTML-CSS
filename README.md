@@ -14,7 +14,7 @@ O projeto foi realizado apos o [Projeto 1: Meu Portfolio](https://github.com/drp
 * CSS
 
 ## :notebook_with_decorative_cover: Certificados
-* HTML e CSS: praticando HTML/CSS
+* HTML e CSS: praticando HTML/CSS (8h)
 
 ## :bust_in_silhouette: Criador
 <table>
