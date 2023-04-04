@@ -1,4 +1,4 @@
-<h1 align="center">Projeto 2: AluraPlux</h1>
+<h1 align="center">Projeto 2: AluraPlus</h1>
 
 ## :memo: Sobre o Projeto
 Projeto do Curso de HTML/CSS da Alura, sendo esse a parte 5/6 da formação <strong>A partir do zero: HTML e CSS para projetos web</strong>
